@@ -8,6 +8,9 @@
     },
     {
       "key": "borderRadius"
+    },
+    {
+      "key": "text"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
@@ -27,6 +30,8 @@
   "mobileRightColumn": 40,
   "mobileTopRow": 13,
   "needsErrorInfo": false,
+  "originalBottomRow": 17,
+  "originalTopRow": 13,
   "overflow": "NONE",
   "parentColumnSpace": 16.484375,
   "parentId": "0",
@@ -35,7 +40,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 41,
   "shouldTruncate": false,
-  "text": "0000",
+  "text": "{{appsmith.store.inputLabel || \"OID\" }}",
   "textAlign": "CENTER",
   "textColor": "#231F20",
   "topRow": 13,
@@ -43,5 +48,5 @@
   "type": "TEXT_WIDGET",
   "version": 1,
   "widgetId": "v7t21v5a6r",
-  "widgetName": "Text2"
+  "widgetName": "num_input"
 }
