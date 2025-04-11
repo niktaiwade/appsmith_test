@@ -1,0 +1,47 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 17,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "Nunito Sans",
+  "fontSize": "1rem",
+  "fontStyle": "BOLD,ITALIC",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "29xiq8n3az",
+  "leftColumn": 25,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 17,
+  "mobileLeftColumn": 24,
+  "mobileRightColumn": 40,
+  "mobileTopRow": 13,
+  "needsErrorInfo": false,
+  "overflow": "NONE",
+  "parentColumnSpace": 16.484375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 41,
+  "shouldTruncate": false,
+  "text": "0000",
+  "textAlign": "CENTER",
+  "textColor": "#231F20",
+  "topRow": 13,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "v7t21v5a6r",
+  "widgetName": "Text2"
+}
